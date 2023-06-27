@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="67px" viewBox="0 0 61 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FIELD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="#4" transform="translate(-345.000000, -247.000000)" stroke-width="4" stroke="#FFFFFF">
+            <g id="Video">
+                <path d="M402.607209,281.42483 C403.852746,280.741794 403.852746,279.616792 402.607209,278.933756 L349.250003,249.281935 C348.004465,248.598898 347,249.201578 347,250.607829 L347,309.750757 C347,311.157009 348.004465,311.759688 349.250003,311.076651 L402.607209,281.42483 Z" id="Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>
